@@ -70,7 +70,7 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
                 context.startActivity(new Intent(context, BankMaghrib.class));
             }
             if (getPosition() == 2) {
-                context.startActivity(new Intent(context, PoletiqueMonetique.class));
+                context.startActivity(new Intent(context, PolitiqueMonetique.class));
             }
             if (getPosition() == 3) {
                 context.startActivity(new Intent(context, SupervisionBancaire.class));

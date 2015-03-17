@@ -9,14 +9,14 @@ import android.view.MenuItem;
 
 import com.example.hichampc.bkam_android.R;
 
-public class PoletiqueMonetique extends ActionBarActivity {
+public class PolitiqueMonetique extends ActionBarActivity {
 
     private Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_poletique_monetique);
+        setContentView(R.layout.activity_politique_monetique);
 
         toolbar = (Toolbar) findViewById(R.id.app_bar);
 

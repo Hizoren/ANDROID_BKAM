@@ -21,7 +21,7 @@
             android:label="@string/title_activity_bank_maghrib" >
         </activity>
         <activity
-            android:name=".ma.bkam.android.PoletiqueMonetique"
+            android:name=".ma.bkam.android.PolitiqueMonetique"
             android:label="@string/title_activity_poletique_monetique" >
         </activity>
         <activity
