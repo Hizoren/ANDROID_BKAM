@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_accueil">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_name">BKAM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    // List Navigation Drawer
+
+    <string-array name="menu">
+        <item>Home</item>
+        <item>BKAM</item>
+        <item>Payment Policy</item>
+        <item>Banking Supervision</item>
+        <item>Systems and means of payment</item>
+        <item>Ticket and currency</item>
+        <item>Regulation</item>
+        <item>Monetary and Financial Statistics</item>
+        <item>Publications and Research</item>
+    </string-array>
+
+</resources>
