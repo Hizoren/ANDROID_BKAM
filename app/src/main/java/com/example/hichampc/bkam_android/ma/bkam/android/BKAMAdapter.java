@@ -1,6 +1,7 @@
 package com.example.hichampc.bkam_android.ma.bkam.android;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -40,6 +41,7 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
         Information current = data.get(position);
         holder.title.setText(current.title);
         holder.icon.setImageResource(current.iconId);
+
     }
 
     @Override
@@ -47,7 +49,7 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
         return data.size();
     }
 
-    class MyViewHolder extends RecyclerView.ViewHolder {
+    class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         TextView title;
         ImageView icon;
 
@@ -55,6 +57,12 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
             super(itemView);
             title= (TextView) itemView.findViewById(R.id.listText);
             icon= (ImageView) itemView.findViewById(R.id.listIcon);
+            icon.setOnClickListener(this);
+        }
+
+        @Override
+        public void onClick(View v) {
+            
         }
     }
 }
