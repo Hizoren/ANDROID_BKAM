@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ma.bkam.android.BankMaghrib"
+            android:label="@string/title_activity_bank_maghrib" >
+        </activity>
     </application>
 
 </manifest>

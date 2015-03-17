@@ -24,6 +24,7 @@
         <item>Statistiques monétaires et financières</item>
         <item>Publications et Recherche</item>
     </string-array>
+    <string name="title_activity_bank_maghrib">BankMaghrib</string>
 
 
 </resources>

@@ -2,6 +2,7 @@ package com.example.hichampc.bkam_android.ma.bkam.android;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -66,12 +67,10 @@ public class NavigationDrawerFragment extends Fragment {
             @Override
             public void onClick(View view, int position) {
                 if (position == 0) {
-
-                    
-
+                    startActivity(new Intent(getActivity(),Accueil.class));
                 }
                 if (position == 1) {
-
+                    startActivity(new Intent(getActivity(),BankMaghrib.class));
                 }
                 if (position == 3) {
 
