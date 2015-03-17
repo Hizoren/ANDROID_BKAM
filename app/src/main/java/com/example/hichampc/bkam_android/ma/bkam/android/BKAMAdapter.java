@@ -21,11 +21,11 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
 
     private LayoutInflater inflater;
     private Context context;
-    private List<Information> data= Collections.emptyList();
+    private List<Information> data = Collections.emptyList();
 
-    public BKAMAdapter(Context context,List<Information> data) {
-        this.data = data ;
-        this.context=context;
+    public BKAMAdapter(Context context, List<Information> data) {
+        this.data = data;
+        this.context = context;
         inflater = LayoutInflater.from(context);
     }
 
@@ -49,43 +49,43 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
         return data.size();
     }
 
-    class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
+    class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         TextView title;
         ImageView icon;
 
         public MyViewHolder(View itemView) {
             super(itemView);
             itemView.setOnClickListener(this);
-            title= (TextView) itemView.findViewById(R.id.listText);
-            icon= (ImageView) itemView.findViewById(R.id.listIcon);
+            title = (TextView) itemView.findViewById(R.id.listText);
+            icon = (ImageView) itemView.findViewById(R.id.listIcon);
             icon.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View v) {
             if (getPosition() == 0) {
-                context.startActivity(new Intent(context,Accueil.class));
+                context.startActivity(new Intent(context, Accueil.class));
             }
             if (getPosition() == 1) {
-                context.startActivity(new Intent(context,BankMaghrib.class));
+                context.startActivity(new Intent(context, BankMaghrib.class));
             }
             if (getPosition() == 2) {
-                context.startActivity(new Intent(context,PoletiqueMonetique.class));
+                context.startActivity(new Intent(context, PoletiqueMonetique.class));
             }
             if (getPosition() == 3) {
-                context.startActivity(new Intent(context,SupervisionBancaire.class));
+                context.startActivity(new Intent(context, SupervisionBancaire.class));
             }
             if (getPosition() == 4) {
-                context.startActivity(new Intent(context,MoyenPaiement.class));
+                context.startActivity(new Intent(context, MoyenPaiement.class));
             }
             if (getPosition() == 5) {
-                context.startActivity(new Intent(context,BilletMonnaie.class));
+                context.startActivity(new Intent(context, BilletMonnaie.class));
             }
             if (getPosition() == 6) {
-                context.startActivity(new Intent(context,Reglementation.class));
+                context.startActivity(new Intent(context, Reglementation.class));
             }
             if (getPosition() == 7) {
-                context.startActivity(new Intent(context,StatistiqueMonetaire.class));
+                context.startActivity(new Intent(context, StatistiqueMonetaire.class));
             }
 
         }
