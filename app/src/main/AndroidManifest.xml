@@ -20,6 +20,30 @@
             android:name=".ma.bkam.android.BankMaghrib"
             android:label="@string/title_activity_bank_maghrib" >
         </activity>
+        <activity
+            android:name=".ma.bkam.android.PoletiqueMonetique"
+            android:label="@string/title_activity_poletique_monetique" >
+        </activity>
+        <activity
+            android:name=".ma.bkam.android.SupervisionBancaire"
+            android:label="@string/title_activity_supervision_bancaire" >
+        </activity>
+        <activity
+            android:name=".ma.bkam.android.MoyenPaiement"
+            android:label="@string/title_activity_moyen_paiement" >
+        </activity>
+        <activity
+            android:name=".ma.bkam.android.BilletMonnaie"
+            android:label="@string/title_activity_billet_monnaie" >
+        </activity>
+        <activity
+            android:name=".ma.bkam.android.Reglementation"
+            android:label="@string/title_activity_reglementation" >
+        </activity>
+        <activity
+            android:name=".ma.bkam.android.StatistiqueMonetaire"
+            android:label="@string/title_activity_statistique_monetaire" >
+        </activity>
     </application>
 
 </manifest>

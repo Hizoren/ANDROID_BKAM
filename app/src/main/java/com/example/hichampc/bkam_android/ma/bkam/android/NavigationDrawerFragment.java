@@ -66,21 +66,7 @@ public class NavigationDrawerFragment extends Fragment {
         recyclerView.addOnItemTouchListener(new RecyclerTouchListener(getActivity(), recyclerView, new ClickListener() {
             @Override
             public void onClick(View view, int position) {
-                if (position == 0) {
-                    startActivity(new Intent(getActivity(),Accueil.class));
-                }
-                if (position == 1) {
-                    startActivity(new Intent(getActivity(),BankMaghrib.class));
-                }
-                if (position == 3) {
 
-                    mDrawerLayout.closeDrawer(containerView);
-                }
-                if (position == 2) {
-
-                    mDrawerLayout.closeDrawer(containerView);
-
-                }
             }
 
             @Override

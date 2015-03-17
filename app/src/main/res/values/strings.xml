@@ -25,6 +25,12 @@
         <item>Publications et Recherche</item>
     </string-array>
     <string name="title_activity_bank_maghrib">BankMaghrib</string>
+    <string name="title_activity_poletique_monetique">PoletiqueMonetique</string>
+    <string name="title_activity_supervision_bancaire">SupervisionBancaire</string>
+    <string name="title_activity_moyen_paiement">MoyenPaiement</string>
+    <string name="title_activity_billet_monnaie">BilletMonnaie</string>
+    <string name="title_activity_reglementation">Reglementation</string>
+    <string name="title_activity_statistique_monetaire">StatistiqueMonetaire</string>
 
 
 </resources>

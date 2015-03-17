@@ -55,6 +55,7 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
 
         public MyViewHolder(View itemView) {
             super(itemView);
+            itemView.setOnClickListener(this);
             title= (TextView) itemView.findViewById(R.id.listText);
             icon= (ImageView) itemView.findViewById(R.id.listIcon);
             icon.setOnClickListener(this);
@@ -62,7 +63,31 @@ public class BKAMAdapter extends RecyclerView.Adapter<BKAMAdapter.MyViewHolder> 
 
         @Override
         public void onClick(View v) {
-            
+            if (getPosition() == 0) {
+                context.startActivity(new Intent(context,Accueil.class));
+            }
+            if (getPosition() == 1) {
+                context.startActivity(new Intent(context,BankMaghrib.class));
+            }
+            if (getPosition() == 2) {
+                context.startActivity(new Intent(context,PoletiqueMonetique.class));
+            }
+            if (getPosition() == 3) {
+                context.startActivity(new Intent(context,SupervisionBancaire.class));
+            }
+            if (getPosition() == 4) {
+                context.startActivity(new Intent(context,MoyenPaiement.class));
+            }
+            if (getPosition() == 5) {
+                context.startActivity(new Intent(context,BilletMonnaie.class));
+            }
+            if (getPosition() == 6) {
+                context.startActivity(new Intent(context,Reglementation.class));
+            }
+            if (getPosition() == 7) {
+                context.startActivity(new Intent(context,StatistiqueMonetaire.class));
+            }
+
         }
     }
 }
