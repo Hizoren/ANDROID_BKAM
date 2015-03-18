@@ -79,7 +79,7 @@ public class Accueil extends ActionBarActivity {
     class MyPagerAdapter extends FragmentPagerAdapter {
 
         String tabText[];
-        int tabIcon[] = {R.drawable.home,R.drawable.supervision,R.drawable.billet};
+        int tabIcon[] = {R.drawable.actu,R.drawable.agenda,R.drawable.chart};
 
         public MyPagerAdapter(FragmentManager fm) {
             super(fm);
