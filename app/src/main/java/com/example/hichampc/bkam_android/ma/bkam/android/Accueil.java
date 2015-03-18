@@ -1,5 +1,6 @@
 package com.example.hichampc.bkam_android.ma.bkam.android;
 
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -9,6 +10,10 @@ import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.Spanned;
+import android.text.style.ImageSpan;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -44,6 +49,11 @@ public class Accueil extends ActionBarActivity {
         mPager = (ViewPager) findViewById(R.id.pager);
         mPager.setAdapter(new MyPagerAdapter(getSupportFragmentManager()));
         mTabs = (SlidingTabLayout) findViewById(R.id.tabs);
+        mTabs.setDistributeEvenly(true);
+        mTabs.setCustomTabView(R.layout.custom_tab_view,R.id.tabText);
+
+        mTabs.setBackgroundColor(getResources().getColor(R.color.primaryColor));
+        mTabs.setSelectedIndicatorColors(getResources().getColor(R.color.accentColor));
         mTabs.setViewPager(mPager);
 
     }
@@ -68,11 +78,12 @@ public class Accueil extends ActionBarActivity {
 
     class MyPagerAdapter extends FragmentPagerAdapter {
 
-        String tabs[];
+        String tabText[];
+        int tabIcon[] = {R.drawable.home,R.drawable.supervision,R.drawable.billet};
 
         public MyPagerAdapter(FragmentManager fm) {
             super(fm);
-            tabs = getResources().getStringArray(R.array.tabs);
+            tabText = getResources().getStringArray(R.array.tabs);
 
         }
 
@@ -84,7 +95,12 @@ public class Accueil extends ActionBarActivity {
 
         @Override
         public CharSequence getPageTitle(int position) {
-            return tabs[position];
+            Drawable drawable = getResources().getDrawable(tabIcon[position]);
+            drawable.setBounds(0,0,80,80);
+            ImageSpan imageSpan = new ImageSpan(drawable);
+            SpannableString spannableString = new SpannableString(" ");
+            spannableString.setSpan(imageSpan,0,spannableString.length(), Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
+            return spannableString;
         }
 
         @Override
