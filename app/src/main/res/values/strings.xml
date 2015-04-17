@@ -24,19 +24,104 @@
         <item>Statistiques monétaires et financières</item>
         <item>Publications et Recherche</item>
     </string-array>
-    <string name="title_activity_bank_maghrib">BankMaghrib</string>
-    <string name="title_activity_poletique_monetique">PolitiqueMonetique</string>
-    <string name="title_activity_supervision_bancaire">SupervisionBancaire</string>
-    <string name="title_activity_moyen_paiement">MoyenPaiement</string>
-    <string name="title_activity_billet_monnaie">BilletMonnaie</string>
+    <string name="title_activity_bank_maghrib">Bank Maghrib</string>
+    <string name="title_activity_poletique_monetique">Politique Monetique</string>
+    <string name="title_activity_supervision_bancaire">Supervision Bancaire</string>
+    <string name="title_activity_moyen_paiement">Moyen Paiement</string>
+    <string name="title_activity_billet_monnaie">Billet Monnaie</string>
     <string name="title_activity_reglementation">Reglementation</string>
-    <string name="title_activity_statistique_monetaire">StatistiqueMonetaire</string>
+    <string name="title_activity_statistique_monetaire">Statistique Monetaire</string>
+
+
+    <string-array name="bkam_sections">
+        <item>Statut et décret d\'application</item>
+        <item>Historique</item>
+        <item>Missions</item>
+        <item>Organes d\'administration</item>
+        <item>Organes de contrôle</item>
+        <item>Organisation</item>
+        <item>Réseau</item>
+        <item>Situation comptable et états de synthèse</item>
+        <item>Gouvernance</item>
+        <item>Orientations QSE</item>
+    </string-array>
+
+    <string-array name="politique_sections">
+        <item>Rapport sur la politique monétaire</item>
+        <item>Processus de prise de décision</item>
+        <item>Mécanismes de transmission de la politique monétaire</item>
+        <item>Résérve monétaire</item>
+        <item>Taux directeur</item>
+    </string-array>
+
+    <string-array name="supervision_sections">
+        <item>Loi bancaire</item>
+        <item>Texte d\'application</item>
+        <item>Aperçu sur le système bancaire maroc</item>
+        <item>Réglementation</item>
+        <item>Bâle II</item>
+        <item>Rapport annuel sur le contrôle, activités et les résultats des établissements de crédits</item>
+        <item>Etat de synthèse des établissements de crédit et organismes assimilés</item>
+        <item>Etablissement de crédit et organismes assimilés</item>
+        <item>Fonds collectif de garantie des dépôts</item>
+        <item>Tableau de bord du système bancaire</item>
+        <item>Centrale des risques</item>
+    </string-array>
+
+    <string-array name="systeme_moyen_paiement_sections">
+        <item>Systèmes et moyens de paiement</item>
+        <item>Cadre juridique</item>
+        <item>Rôles et missions de BAM</item>
+        <item>Centrale des incidents de paiement sur chèques</item>
+        <item>Statiques</item>
+        <item>Rapport annuel sur les systemes et moyens de paiement</item>
+    </string-array>
+
+    <string-array name="billet_monnaie_sections">
+        <item>Gestion de la monnaie fiduciaire</item>
+        <item>Billets en circulation</item>
+        <item>Pièces de monnaie en circulation</item>
+        <item>Règles de rembourssement des billets détériorés</item>
+        <item>Billets et pièces de monnaie démonétisées</item>
+    </string-array>
+
+    <string-array name="reglementation_sections">
+        <item>Statut et décret d\'application</item>
+        <item>Recueil de la réglementation bancaire</item>
+        <item>Régime juridique de l\'emission de la monnaie fudiciaire</item>
+        <item>Réglementation bancaire</item>
+        <item>Régulation du marché monétaire</item>
+        <item>Réglementation du marchédes changes</item>
+        <item>Réglementation des systèmes et moyens de paiement</item>
+    </string-array>
+
+    <string-array name="statistiques_monétaires_financières_sections">
+        <item>Régulation monétaire</item>
+        <item>Marché monétaire</item>
+        <item>Taux d\'intérêt</item>
+        <item>Séries statistiques monétaires</item>
+        <item>Réserves internationales nettes</item>
+        <item>Situation comptable</item>
+        <item>Etats de synthèse</item>
+        <item>Norme spéciale de diffusion des données (NSDD)</item>
+        <item>Marché des changes</item>
+        <item>Moyens de paiement</item>
+    </string-array>
+
+    <string-array name="publications_recherche_sections">
+        <item>Publications institutionnelles</item>
+        <item>Documents d\'analyse et de référence</item>
+        <item>Recherches et séminaires</item>
+        <item>Documents d\'information et de statistiques</item>
+        <item>Abonnement</item>
+    </string-array>
 
     <string-array name="tabs">
         <item>TAB 1</item>
         <item>TAB 2</item>
         <item>TAB 3</item>
     </string-array>
+
 
 
 </resources>
