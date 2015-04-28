@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-76a228db70cbe307caaac9542a0eb492bfe48549.jar" />
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-5fef6c15545b6390c448be6df0ed8f06ef4d0eb6.jar" />
     </item>
     <item
-        jar="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-72d0b96fbebaf898eafa1bc2d0db82b2b6458bb2.jar" />
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-64b1523c5180852758329ee880cf013fb2575923.jar" />
     </item>
     <item
-        jar="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\Hafid Hassin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-b0bfc968c665f400a2840b7af4e6549f0183225c.jar" />
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0300d7bef82bf45f0793812d6286805a245bf4af.jar" />
     </item>
     <item
-        jar="C:\Users\HICHAM PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-07594427fc4c7402db26fdfe70cf56316b97b96b.jar" />
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-a9d547d3f7c8147d90402a110349fbe377b71926.jar" />
     </item>
     <item
-        jar="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="G:\WP_ANDROID_STUDIO\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c4523105c7c259e0301b55319301c2dbcbf2d157.jar" />
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c536663898ade795c7770ea7e46f24db7105707f.jar" />
     </item>
 
 </items>

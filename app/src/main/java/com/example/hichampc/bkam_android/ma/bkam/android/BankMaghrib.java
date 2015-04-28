@@ -1,6 +1,5 @@
 package com.example.hichampc.bkam_android.ma.bkam.android;
 
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -10,9 +9,6 @@ import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
-import android.text.SpannableString;
-import android.text.Spanned;
-import android.text.style.ImageSpan;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -21,8 +17,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.hichampc.bkam_android.R;
-
 import Tabs.SlidingTabLayout;
+
 
 public class BankMaghrib extends ActionBarActivity {
 
@@ -122,6 +118,22 @@ public class BankMaghrib extends ActionBarActivity {
             Bundle bundle = getArguments();
             if (bundle!=null){
                 textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+//                if(bundle.getInt("position") == 0){
+//                    textView.setText(R.string.statut_decret_application);
+//                }
+//
+//                if(bundle.getInt("position") == 1){
+//                    textView.setText(R.string.statut_decret_application);
+//                }
+//
+//                if(bundle.getInt("position") == 2){
+//                    textView.setText(R.string.statut_decret_application);
+//                }
+//
+//                if(bundle.getInt("position") == 3){
+//                    textView.setText(R.string.statut_decret_application);
+//                }
+
             }
             return layout;
         }
