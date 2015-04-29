@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\pre-dexed\debug\classes-a944f2cf4ddc71f932ee1ff5301bba1350e6b3bf.jar" />
+    </item>
+    <item
         jar="D:\Workspace\Android\ANDROID_BKAM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"

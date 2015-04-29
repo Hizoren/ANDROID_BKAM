@@ -118,21 +118,45 @@ public class BankMaghrib extends ActionBarActivity {
             Bundle bundle = getArguments();
             if (bundle!=null){
                 textView.setText("La page sélectionnée est "+bundle.getInt("position"));
-//                if(bundle.getInt("position") == 0){
-//                    textView.setText(R.string.statut_decret_application);
-//                }
-//
-//                if(bundle.getInt("position") == 1){
-//                    textView.setText(R.string.statut_decret_application);
-//                }
-//
-//                if(bundle.getInt("position") == 2){
-//                    textView.setText(R.string.statut_decret_application);
-//                }
-//
-//                if(bundle.getInt("position") == 3){
-//                    textView.setText(R.string.statut_decret_application);
-//                }
+                if(bundle.getInt("position") == 0){
+                    textView.setText(R.string.statut_decret_application);
+                }
+
+                if(bundle.getInt("position") == 1){
+                    textView.setText(R.string.historique);
+                }
+
+                if(bundle.getInt("position") == 2){
+                    textView.setText(R.string.mission);
+                }
+
+                if(bundle.getInt("position") == 3){
+                    textView.setText(R.string.organes_administration);
+                }
+
+                if(bundle.getInt("position") == 4){
+                    textView.setText(R.string.organes_controle);
+                }
+
+                if(bundle.getInt("position") == 5){
+                    textView.setText(R.string.organisation);
+                }
+
+                if(bundle.getInt("position") == 6){
+                    textView.setText(R.string.reseau);
+                }
+
+                if(bundle.getInt("position") == 7){
+                    textView.setText(R.string.situation_comptable);
+                }
+
+                if(bundle.getInt("position") == 8){
+                    textView.setText(R.string.gouvernance);
+                }
+
+                if(bundle.getInt("position") == 9){
+                    textView.setText(R.string.orientation_qse);
+                }
 
             }
             return layout;

@@ -21,7 +21,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.hichampc.bkam_android.R;
+import com.example.hichampc.bkam_android.*;
 
 import Tabs.SlidingTabLayout;
 

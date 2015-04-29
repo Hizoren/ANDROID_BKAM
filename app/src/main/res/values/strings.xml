@@ -122,7 +122,8 @@
         <item>TAB 3</item>
     </string-array>
 
-    <string name="statut_decret_application">Statut de Bank Al-Maghrib
+    <string name="statut_decret_application">
+        Statut de Bank Al-Maghrib
 
 
 Dahir n°1-05-38 du 20 chaoual 1426 (23 novembre 2005) portant promulgation de la loi n° 76-03 portant statut de Bank Al-Maghrib.
@@ -157,202 +158,99 @@ Vu la décision du Conseil constitutionnel n° 606-05 du 10 safar 1426 (21 mars 
 
   Le Premier ministre,
 
-  DRISS JETTOU.</string>
+  DRISS JETTOU.
+    </string>
 
-
-    <string name="historique">
-        La banque centrale du Royaume du Maroc, dénommée « Bank Al-Maghrib», est un établissement public doté de la personnalité morale et de l’autonomie financière. Elle a été créée en 1959 en substitution à l’ancienne « Banque d’Etat du Maroc ».
+    <string name="historique"> 
+         La banque centrale du Royaume du Maroc, dénommée « Bank Al-Maghrib», est un établissement public doté de la personnalité morale et de l\’autonomie financière. Elle a été créée en 1959 en substitution à l\’ancienne « Banque d\’Etat du Maroc ».
 
 1906
-
-- Ouverture en janvier 1906 à Algésiras d’une conférence internationale en vue de sauvegarder l’indépendance et l’intégrité du Royaume du Maroc, d’y garantir la liberté commerciale et l’égalité économique entre les puissances étrangères et d’examiner un projet de réforme de son administration et de ses finances.
-
--  Institution de la Banque d’Etat du Maroc par l’acte de la conférence d’Algésiras signé, le 7 avril 1906, par les délégués de douze pays européens, des Etats-Unis et du Maroc.  Cette banque a été constituée en février 1907 sous forme de société anonyme dont le siège social était à Tanger. Son capital était réparti entre les pays signataires, à l’exception des Etats-Unis.
-
+- Ouverture en janvier 1906 à Algésiras d\'une conférence internationale en vue de sauvegarder l\'indépendance et l\'intégrité du Royaume du Maroc, d\’y garantir la liberté commerciale et l\’égalité économique entre les puissances étrangères et d\’examiner un projet de réforme de son administration et de ses finances.
+-  Institution de la Banque d\'Etat du Maroc par l\'acte de la conférence d\'Algésiras signé, le 7 avril 1906, par les délégués de douze pays européens, des Etats-Unis et du Maroc.  Cette banque a été constituée en février 1907 sous forme de société anonyme dont le siège social était à Tanger. Son capital était réparti entre les pays signataires, à l\’exception des Etats-Unis.
   A la suite des cessions par certains pays de leurs quote-parts, la France détiendra ultérieurement la majeure partie du capital de la Banque.
 
-
-
-1911
-
-Investie de certaines missions de banque centrale, la Banque d’Etat du Maroc a, dès 1911, pris en charge la frappe des pièces de monnaie en argent de type « hassani »et l’émission des premiers billets de banque.
-
-
+    1911
+Investie de certaines missions de banque centrale, la Banque d\’Etat du Maroc a, dès 1911, pris en charge la frappe des pièces de monnaie en argent de type « hassani »et l’émission des premiers billets de banque.
 
 1919
-
-En raison de l’impossibilité de maintenir une parité forcée entre la monnaie hassani et la monnaie française en circulation au Maroc, la Banque d’Etat du Maroc a suspendu en octobre 1919 le régime de parité entre ces deux monnaies.
-
-
+En raison de l\’impossibilité de maintenir une parité forcée entre la monnaie hassani et la monnaie française en circulation au Maroc, la Banque d\’Etat du Maroc a suspendu en octobre 1919 le régime de parité entre ces deux monnaies.
 
 1920
-
-En mars 1920, il a été décidé de démonétiser les espèces hassani et de les remplacer par des billets et pièces en franc marocain dont la parité avec le franc français a été assurée, à compter de décembre 1921, par le biais d’un compte dit « d’opérations ».
-
-
+En mars 1920, il a été décidé de démonétiser les espèces hassani et de les remplacer par des billets et pièces en franc marocain dont la parité avec le franc français a été assurée, à compter de décembre 1921, par le biais d\’un compte dit « d\’opérations ».
 
 1946
-
 Renouvellement, pour une durée de 20 ans, du privilège d’émission accordé à la Banque d’Etat du Maroc.
 
-
-
 1959
-
-- Dès 1958, des négociations furent engagées par le Gouvernement marocain avec la  France et la Banque d’Etat du Maroc en vue de la reprise par le Maroc du privilège d’émission.
-  Ainsi, le premier juillet 1959, la Banque du Maroc, Institut d’émission purement national, a été créée par le Dahir n° 1.59.233 du 30 juin 1959, en remplacement de la Banque d’Etat du Maroc qui cessa officiellement d’exister.
-
- - Adoption, en octobre de la même année, d’une nouvelle unité monétaire : le dirham.
-
-
+- Dès 1958, des négociations furent engagées par le Gouvernement marocain avec la  France et la Banque d\’Etat du Maroc en vue de la reprise par le Maroc du privilège d’émission.
+  Ainsi, le premier juillet 1959, la Banque du Maroc, Institut d\’émission purement national, a été créée par le Dahir n° 1.59.233 du 30 juin 1959, en remplacement de la Banque d\’Etat du Maroc qui cessa officiellement d’exister.
+ - Adoption, en octobre de la même année, d\’une nouvelle unité monétaire : le dirham.
 
 1967
-
 Promulgation de la loi bancaire du 21 avril 1967 qui a permis de  renforcer le rôle dévolu à la Banque du Maroc par ses statuts, notamment, en matière de contrôle de la profession bancaire.
 
-
-
 1974
-
 Emission du centime en remplacement du franc, en tant que fraction du dirham.
 
-
-
 1987
-
 - En mars 1987, la Banque adopte, dans toutes les langues, la dénomination« Bank Al-Maghrib ».
-
 - Création à la même date de « DAR AS-SIKKAH », unité industrielle chargée de la fabrication des billets de banque et de la frappe des pièces de monnaie.
 
 1993
+-  Adoption, en juillet 1993, d\’une nouvelle loi bancaire qui a permis d’instituer un cadre légal unifié pour l\’ensemble des établissements de crédit, d\’élargir la concertation, d\’introduire certaines mesures visant à mieux protéger les intérêts de la clientèle et de renforcer le pouvoir de la banque centrale en matière de réglementation de l\’activité des établissements de crédit et de leur contrôle.
+- Certaines modifications sont apportées aux statuts de la Banque, en octobre 1993, visant, notamment, à préciser les missions qui lui sont dévolues, en particulier celles liées à la politique monétaire et à donner plus d\’autonomie à ses organes d\’administration et de direction.
 
--  Adoption, en juillet 1993, d’une nouvelle loi bancaire qui a permis d’instituer un cadre légal unifié pour l’ensemble des établissements de crédit, d’élargir la concertation, d’introduire certaines mesures visant à mieux protéger les intérêts de la clientèle et de renforcer le pouvoir de la banque centrale en matière de réglementation de l’activité des établissements de crédit et de leur contrôle.
-
-
-- Certaines modifications sont apportées aux statuts de la Banque, en octobre 1993, visant, notamment, à préciser les missions qui lui sont dévolues, en particulier celles liées à la politique monétaire et à donner plus d’autonomie à ses organes d’administration et de direction.
-
- 2006
-                    - Publication dans l’édition générale du Bulletin Officiel n° 5397 du 21 moharrem 1427 (20 février 2006) de la
-
-                     loi n°76-03 portant statut de BankAlMaghrib, promulguée par le dahir n° 1-05-38 du 20 chaoual
-
-                     1426(23novembre 2005).
-
-                    - Cette loi qui abroge le dahir n° 1-59-233 du 23 hija 1378 (30 juin 1959) portant création de Bank
-
-                     Al-Maghrib, renforce l’autonomie de la Banque centrale en matière de conduite de la politique monétaire et
-
-                     confère une base légale à sa mission de surveillance et de sécurisation des systèmes et des moyens de
-
-                     paiement.
-
-                    - Elle attribue à Bank Al-Maghrib une forme juridique sui generis de personne morale de droit public, soumise
-
-                     au contrôle d’un Commissaire aux Comptes, du Commissaire du Gouvernement et de la Cour des Comptes.
-
-                    * Publication dans l’édition générale du Bulletin Officiel n° 5397 du 21 moharrem 1427 (20 février 2006) de la
-
-                     loi n° 34-03 relative aux établissements de crédit et organismes assimilés, promulguée par le dahir n°
-
-                     1-05-178 du 15 moharrem 1427 (14 février 2006).
-
-                    - Cette loi abroge le dahir portant loi n° 1-93-1474 du 15 moharrem 1414 (6 juillet 1993) relatif à l’exercice
-
-                     de l’activité des établissements de crédit et de leur contrôle et prévoit notamment :
-
-                     • l’élargissement du champ d’application de la loi bancaire à certains organismes exerçant des activités
-
-                     bancaires ;
-
-                     • la redéfinition des compétences des organes consultatifs, tels que le Conseil National du Crédit et de
-
-                     l’Epargne et le Comité des Etablissements de crédit … ;
-
-                     • l’affermissement du rôle de Bank Al-Maghrib et de son autonomie en matière de supervision du système
-
-                     bancaire ;
-
-                     • le renforcement de la protection de la clientèle des établissements de crédit
-
-                     • et l’instauration d’un régime spécifique, dérogatoire au droit commun, en matière de traitement des
-
-                     difficultés des établissements de crédit
+2006
+- Publication dans l\’édition générale du Bulletin Officiel n° 5397 du 21 moharrem 1427 (20 février 2006) de la
+loi n°76-03 portant statut de BankAlMaghrib, promulguée par le dahir n° 1-05-38 du 20 chaoual
+1426(23novembre 2005).
+- Cette loi qui abroge le dahir n° 1-59-233 du 23 hija 1378 (30 juin 1959) portant création de Bank
+Al-Maghrib, renforce l\’autonomie de la Banque centrale en matière de conduite de la politique monétaire et
+confère une base légale à sa mission de surveillance et de sécurisation des systèmes et des moyens de paiement.
+- Elle attribue à Bank Al-Maghrib une forme juridique sui generis de personne morale de droit public, soumise
+au contrôle d’un Commissaire aux Comptes, du Commissaire du Gouvernement et de la Cour des Comptes.
+* Publication dans l’édition générale du Bulletin Officiel n° 5397 du 21 moharrem 1427 (20 février 2006) de la
+loi n° 34-03 relative aux établissements de crédit et organismes assimilés, promulguée par le dahir n°
+1-05-178 du 15 moharrem 1427 (14 février 2006).
+- Cette loi abroge le dahir portant loi n° 1-93-1474 du 15 moharrem 1414 (6 juillet 1993) relatif à l’exercice
+de l\’activité des établissements de crédit et de leur contrôle et prévoit notamment :
+• l\’élargissement du champ d’application de la loi bancaire à certains organismes exerçant des activités bancaires ;
+• la redéfinition des compétences des organes consultatifs, tels que le Conseil National du Crédit et de l’Epargne et le Comité des Etablissements de crédit … ;
+• l\’affermissement du rôle de Bank Al-Maghrib et de son autonomie en matière de supervision du système bancaire ;
+• le renforcement de la protection de la clientèle des établissements de crédit
+• et l\’instauration d\’un régime spécifique, dérogatoire au droit commun, en matière de traitement des difficultés des établissements de crédit
     </string>
 
     <string name="mission">
+
         Missions fondamentales de Bank Al-Maghrib
-Exercer le privilège de l'émission des billets de banque et des pièces de monnaie ayant cours légal sur le territoire du     Royaume.
-
+Exercer le privilège de l\'émission des billets de banque et des pièces de monnaie ayant cours légal sur le territoire du     Royaume.
 Mettre en oeuvre les instruments de la politique monétaire pour assurer la stabilité des prix.
-
 Veiller à la stabilité de la monnaie et à sa convertibilité.
-
 Veiller au bon fonctionnement du marché monétaire et à assurer son contrôle.
-
 Etablir et publier les statistiques sur la monnaie et le crédit.
-
 Gérer les réserves publiques de change.
-
-S'assurer du bon fonctionnement du système bancaire et veiller à l'application des dispositions législatives et réglementaires relatives à l'exercice et au contrôle de l'activité des établissements de crédit et organismes assimilés.
-
+S\'assurer du bon fonctionnement du système bancaire et veiller à l\'application des dispositions législatives et réglementaires relatives à l\'exercice et au contrôle de l\'activité des établissements de crédit et organismes assimilés.
 Veiller à la surveillance et à la sécurité des systèmes et moyens de paiement et à la pertinence des normes qui leur sont applicables.
-
- Autres missions de Bank Al-Maghrib
-
-Assurer le rôle d'agent financier du Trésor.
-
+Autres missions de Bank Al-Maghrib
+Assurer le rôle d\'agent financier du Trésor.
 Conseiller le Gouvernement dans le domaine financier.
-
 Représenter le Gouvernement auprès des institutions financières et monétaires internationales créées en vue de promouvoir la coopération dans les domaines monétaire et financier.
-
 Participer à la négociation des accords financiers internationaux et à leur exécution.
     </string>
+
+    <string name="organes_administration"> organes_administration </string>
+
+    <string name="organes_controle"> organes_controle </string>
+
+    <string name="organisation"> organisation </string>
+
+    <string name="reseau"> reseau </string>
+
+    <string name="situation_comptable"> situation_comptable </string>
+
+    <string name="gouvernance"> gouvernance </string>
     
-    <string name="organes_administration">
-        Conseil de la Banque
-
-Présidé par le Gouverneur, il comprend outre le Directeur Général de la Banque et le Directeur du Trésor, six membres désignés pour leurs compétences en matière monétaire, financière ou économique.
-Le Conseil de la Banque a notamment pour attributions de déterminer les objectifs de la politique monétaire. A cet effet, il fixe les taux d’intérêt des opérations de la Banque et peut exiger la constitution de la réserve monétaire obligatoire.
-En vertu de l’article 38 des statuts de Bank Al-Maghrib, le Conseil de la Banque est composé comme suit :
-
-- le Gouverneur de la Banque, président ;
-
-- le Vice-Gouverneur ou le Directeur Général de la Banque ;
-
-- le Directeur du Trésor et des Finances Extérieures au sein du Ministère chargé des Finances ;
-six membres désignés par le Premier Ministre, dont trois sur proposition du Gouverneur, parmi les personnes connues pour leur compétence en matière monétaire, financière ou économique et n’exerçant aucun mandat électif, aucune fonction de responsabilité dans les établissements de crédit ou à caractère financier ou dans l’administration publique.
-Les membres du Conseil de la Banque sont les suivants :
-
-- M. Abdellatif JOUAHRI, Gouverneur de Bank Al-Maghrib ;
-
-- M. Abdellatif FAOUZI, Directeur Général de Bank Al-Maghrib ;
-
-- Mme Fouzia ZAABOUL, Directeur du Trésor et des Finances Extérieures au Ministère des Finances et de la Privatisation ;
-
-- Mme Miriem BENSALEH CHAQROUN;
-
-- M. Bassim JAI-HOKIMI ;
-
-- M. Mohamed BENAMOUR ;
-
-- M. Mustapha MOUSSAOUI ;
-
-- M. Abdellatif BELMADANI ;
-
-
-Commissaire du Gouvernement :
-
-Comité d'audit: Mme Meriem BENSALEH CHAQROUN, M. Abdellatif BELMADANI et M. Bassim JAI HOKIMI
-Le Comité d'audit a pour mission d’examiner et de donner un avis au Conseil sur les questions relatives à l’information comptable, l’audit interne et externe, le contrôle interne et la maîtrise des risques.
-
-Le Gouverneur
-Le Gouverneur administre et dirige la Banque. Il a notamment pour attribution de veiller à l’observation des dispositions statuaires et des règlements de la Banque et à l’exécution des décisions du Conseil.
-
-Comité de Direction
-Il assiste le Gouverneur dans la gestion des affaires de la Banque.
-Le Comité de Direction est composé du Gouverneur, du Directeur Général et de directeurs désignés par le Gouverneur.
-    </string>
-
-
+    <string name="orientation_qse"> orientation_qse </string>
 
 </resources>
