@@ -128,7 +128,9 @@ public class PolitiqueMonetique extends ActionBarActivity {
             textView = (TextView) layout.findViewById(R.id.position);
             Bundle bundle = getArguments();
             if (bundle!=null){
-                textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                if(bundle.getInt("position") == 2){
+                    textView.setText(R.string.mecanisme_transmission_politique_monetaire);
+                }
             }
             return layout;
         }

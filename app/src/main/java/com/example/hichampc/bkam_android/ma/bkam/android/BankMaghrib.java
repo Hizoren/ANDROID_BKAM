@@ -117,7 +117,7 @@ public class BankMaghrib extends ActionBarActivity {
             textView = (TextView) layout.findViewById(R.id.position);
             Bundle bundle = getArguments();
             if (bundle!=null){
-                textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                //textView.setText(Html.fromHtml(getString(R.string.nice_html)));
                 if(bundle.getInt("position") == 0){
                     textView.setText(R.string.statut_decret_application);
                 }

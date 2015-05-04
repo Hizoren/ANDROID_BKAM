@@ -126,7 +126,19 @@ public class SupervisionBancaire extends ActionBarActivity {
             textView = (TextView) layout.findViewById(R.id.position);
             Bundle bundle = getArguments();
             if (bundle!=null){
-                textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                if(bundle.getInt("position") == 0){
+                    textView.setText(R.string.loi_bancaire);
+                }
+                if(bundle.getInt("position") == 4){
+                    textView.setText(R.string.bale_2);
+                }
+                if(bundle.getInt("position") == 8){
+                    textView.setText(R.string.fonds_collectif_garantie_depot);
+                }
+                if(bundle.getInt("position") == 10){
+                    textView.setText(R.string.central_risques);
+                }
+
             }
             return layout;
         }

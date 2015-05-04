@@ -119,6 +119,9 @@ public class BilletMonnaie extends ActionBarActivity {
             Bundle bundle = getArguments();
             if (bundle!=null){
                 textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                if(bundle.getInt("position") == 0){
+                    textView.setText(R.string.gestion_monnaie_fudiciaire);
+                }
             }
             return layout;
         }

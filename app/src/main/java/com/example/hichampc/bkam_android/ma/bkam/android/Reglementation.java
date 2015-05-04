@@ -114,6 +114,9 @@ public class Reglementation extends ActionBarActivity {
             Bundle bundle = getArguments();
             if (bundle!=null){
                 textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                if(bundle.getInt("position") == 6){
+                    textView.setText(R.string.systeme_paiement_au_maroc);
+                }
             }
             return layout;
         }

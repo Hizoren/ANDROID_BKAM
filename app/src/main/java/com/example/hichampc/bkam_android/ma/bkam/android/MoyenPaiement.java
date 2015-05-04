@@ -114,6 +114,15 @@ public class MoyenPaiement extends ActionBarActivity {
             Bundle bundle = getArguments();
             if (bundle!=null){
                 textView.setText("La page sélectionnée est "+bundle.getInt("position"));
+                if(bundle.getInt("position") == 1){
+                    textView.setText(R.string.cadre_juridique);
+                }
+                if(bundle.getInt("position") == 2){
+                    textView.setText(R.string.roles_missions_BAM);
+                }
+                if(bundle.getInt("position") == 3){
+                    textView.setText(R.string.central_incident_de_paiements_sur_cheque);
+                }
             }
             return layout;
         }
